@@ -27,7 +27,10 @@ klik `mulai instalasi
 ![11](almalinux11.png)
 
 klik `boot ulang sistem
-![12](almalinux12)
+![12](almalinux12.png)
+
+finish menginstall almalinux
+![13](almalinux13.png)
 
 
 
