@@ -26,11 +26,6 @@ lanjut untuk membuat `kata sandi root, pengguna, dan tujuan instalasi
 klik `mulai instalasi
 ![11](almalinux11.png)
 
-klik `boot ulang sistem
-![12](almalinux12)
-
-finish menginstall almalinux
-![13](almalinux13)
 
 
 
