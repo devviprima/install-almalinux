@@ -9,7 +9,7 @@ atur `disk size
 ![3](almalinux3.png)
 
 klik `finish
-![4](almalinux4.png)
+![4](almalinix4.png)
 
 klik `Start
 ![5](almalinux5.png)
