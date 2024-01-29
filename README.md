@@ -2,7 +2,7 @@
 setelah membuka virtual box klik `NEW` selanjutnya isi `Name `folder dan `iso image masukkan file almalinux yang sudah di download
 ![1](almalinux1.png)
 
-atur `base memory, processors dan klik `next
+atur `base memory, `processors dan klik `next
 ![2](almalinux2.png)
 
 atur `disk size
@@ -19,9 +19,19 @@ Atur bahasa yang akan di gunakan
 
 lanjut untuk membuat `kata sandi root, pengguna, dan tujuan instalasi
 ![7](almalinux7.png)
-![8](aalmalinux8.png)
-![9](aalmalinux9.png)
-![10](aalmalinux10.png)
+![8](almalinux8.png)
+![9](almalinux9.png)
+![10](almalinux10.png)
+
+klik `mulai instalasi
+![11](almalinux11.png)
+
+klik `boot ulang sistem
+![12](almalinux12)
+
+finish menginstall almalinux
+![13](almalinux13)
+
 
 
 
