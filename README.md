@@ -19,6 +19,11 @@ Atur bahasa yang akan di gunakan
 
 lanjut untuk membuat `kata sandi root, pengguna, dan tujuan instalasi
 ![7](almalinux7.png)
+![8](aalmalinux8.png)
+![9](aalmalinux9.png)
+![10](aalmalinux10.png)
+
+
 
 
 
